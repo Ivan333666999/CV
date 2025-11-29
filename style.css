@@ -320,6 +320,7 @@ h2:after {
     
 img{
     max-inline-size: 100%;
+    max-width: auto
 }
 
     main {
