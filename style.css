@@ -1,4 +1,4 @@
-/* Reset y base */
+
 * {
     margin: 0;
     padding: 0;
@@ -26,7 +26,7 @@ img {
     max-width: 100%;
     height: auto;}
 
-/* Header */
+
 header {
     background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
     color: #ffffff;
@@ -44,7 +44,7 @@ header:after {
     background: linear-gradient(90deg, #4a90e2, #50c878, #f39c12);
 }
 
-/* Download Buttons */
+
 .download-buttons {
     display: flex;
     flex-direction: row;
@@ -145,7 +145,7 @@ h1 {
     position: relative;
 }
 
-/* Main Content */
+
 main {
     padding: 50px 70px 60px;
 }
@@ -176,7 +176,7 @@ h2:after {
     border-radius: 2px;
 }
 
-/* About */
+
 .about p {
     margin-bottom: 18px;
     text-align: justify;
@@ -190,7 +190,7 @@ h2:after {
     font-weight: 600;
 }
 
-/* Projects */
+
 .projects {
     background: linear-gradient(135deg, #f8f9fa 0%, #f0f1f3 100%);
     padding: 40px;
@@ -223,7 +223,7 @@ h2:after {
     line-height: 1.7;
 }
 
-/* Cultural Projects */
+
 .cultural-project {
     margin-bottom: 30px;
     padding: 25px;
@@ -250,7 +250,7 @@ h2:after {
     text-align: justify;
 }
 
-/* Education */
+
 .education-item {
     margin-bottom: 28px;
     padding: 20px;
@@ -281,7 +281,6 @@ h2:after {
     font-style: italic;
 }
 
-/* Certifications */
 .certifications ul {
     list-style: none;
     display: grid;
@@ -300,7 +299,6 @@ h2:after {
     transition: all 0.3s ease;
 }
 
-/* Services */
 .service-category {
     margin-bottom: 40px;
     padding: 30px;
@@ -344,7 +342,6 @@ h2:after {
     font-weight: bold;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     body {
         padding: 30px 15px;
